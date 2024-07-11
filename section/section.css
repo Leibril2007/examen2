@@ -9,6 +9,7 @@
 }
 
 .cuadSec{
+    border-radius: 3px;
     background-color: rgb(73, 73, 73);
     height: 7rem;
 }

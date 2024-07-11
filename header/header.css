@@ -9,6 +9,7 @@
     font-size: 1.5rem;
 }
 .botGithub{
+    border-radius: 3px;
     font-size: 1.1rem;
     background-color: rgb(36, 36, 36);
     color: white;
