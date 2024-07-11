@@ -1,0 +1,14 @@
+.section{
+    padding: 2rem 1rem;
+
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 1rem;
+
+}
+
+.cuadSec{
+    background-color: rgb(73, 73, 73);
+    height: 7rem;
+}
