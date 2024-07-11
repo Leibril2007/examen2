@@ -1,0 +1,16 @@
+.header{
+    padding: 2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.usuario{
+    font-size: 1.5rem;
+}
+.botGithub{
+    font-size: 1.1rem;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    padding: 0.7rem 1.6rem;
+}
